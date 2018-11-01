@@ -71,7 +71,7 @@ while player is False:
     player = False
     computer = choices[randint(0, 2)]
 
-    if pchealth is z:
+    if pclifebar is z:
         print("")
         print("*You WIN!*")
         print("")
